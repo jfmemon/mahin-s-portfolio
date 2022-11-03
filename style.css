@@ -11,3 +11,11 @@ body{
     color: #9acd32	;
     font-size:xx-large;
 }
+
+.nav-link{
+    font-size: large;
+}
+
+.search-b{
+    background-color: #9acd32;
+}
